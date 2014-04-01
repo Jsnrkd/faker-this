@@ -1,0 +1,13 @@
+{
+    "name": "jrikard/fake-this",
+    "description": "Example utility for anonymizing production data with Faker.",
+    "license": "MIT",
+    "authors": [{
+        "name": "Jason Rikard",
+        "email": "jsnrkd@gmail.com"
+    }],
+    "require": {
+        "fzaninotto/faker": "v1.3.0",
+        "propel/propel": "2.0.*@dev"
+    }
+}
